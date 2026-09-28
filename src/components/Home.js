@@ -21,13 +21,13 @@ const Home = () => {
     <div className="banners overflow-hidden flex flex-wrap md:flex-nowrap gap-3.5 mt-16 mb-20">
       <div className="color-bg black flex flex-wrap grow items-center w-full md:w-2/6">
         <div>
-          <h2><span className="text-blue">User</span><br/><span className="text-white">Centered</span></h2>
+          <h2><span className="text-blue">UI/UX</span><br/><span className="text-white">Design</span></h2>
           <h3>User Research | User Journey | User Flow</h3>
         </div>
       </div>
       <div className="color-bg black flex flex-wrap grow items-center w-full md:w-2/6">
         <div>
-          <h2><span className="text-red">User</span><br/><span className="text-white">Interface</span></h2>
+          <h2><span className="text-red">UI</span><br/><span className="text-white">Development</span></h2>
           <h3>Layout | Standards | Implementation</h3>
         </div>
       </div>
