@@ -71,6 +71,10 @@ input[type="submit"] {
     border: 1px solid var(--grey-light);
 }
 
+.bg-gray-800 {
+    background-color: var(--black);
+}
+
 /*buttons*/
 .btn {
     border-radius: 2px;
@@ -619,9 +623,10 @@ ul.tools {
 
         span {
             display: inline-block;
-            border-radius: 15px;
-            font-size: 12px;
-            padding: 5px 14px;
+            border-radius: 30px;
+            font-size: 10px;
+            font-style: italic;
+            padding: 8px 20px;
             margin: 5px 5px 5px 0;
         }
     }
