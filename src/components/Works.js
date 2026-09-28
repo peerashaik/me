@@ -31,7 +31,7 @@ const Works = () => {
               </div>
               <h2 className="text-white mt-10 mb-2 relative">{work.title}</h2>
               <p className="mb-5 text-sm">{work.theme}</p>
-              <span className="bg-gray-800 text-gray-400">UI Design</span> <span className="inline bg-gray-800 text-gray-400">UI Development</span> <span className="inline bg-gray-800 text-gray-400">{work.framework}</span>
+              {work.framework}
             </div>
           ))
           }
