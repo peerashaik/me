@@ -31,7 +31,7 @@ const Works = () => {
               </div>
               <h2 className="text-white mt-10 mb-2 relative">{work.title}</h2>
               <p className="mb-5 text-sm">{work.theme}</p>
-              {work.framework}
+              <span className='inline bg-gray-800 text-gray-400'>{work.framework1}</span> <span className='inline bg-gray-800 text-gray-400'>{work.framework2}</span> <span className='inline bg-gray-800 text-gray-400'>{work.framework3}</span>
             </div>
           ))
           }
