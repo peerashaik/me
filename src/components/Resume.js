@@ -1,18 +1,17 @@
 import React from "react";
 
 const Resume = () => {
-    const onButtonClick = () => {
-        const pdfUrl = "Senior User Interface and Content Designer.pdf";
+    const openResume = () => {
+        const pdfUrl = "senior-user-interface-designer.pdf";
         const link = document.createElement("a");
         link.href = pdfUrl;
-        link.download = "Senior User Interface and Content Designer.pdf";
-        document.body.appendChild(link);
+        link.download = "senior-user-interface-designer.pdf";
+        window.open(link);
         link.click();
-        document.body.removeChild(link);
     };
     return (
         <>
-        <a href="#" title="Download Resume" onClick={onButtonClick} className="link">
+        <a href="#" title="Download Resume" onClick={openResume} className="link">
             Download - RESUME
         </a>
         </>
