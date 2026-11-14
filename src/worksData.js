@@ -1,10 +1,20 @@
 export const projects = [
 {
   id: 0,
-  name: 'TraumaCleanup',
-  url: 'https://traumacleanup.com.au',
-  image: require('./assets/works/traumacleanup.png'),
-  title: 'Trusted Trauma Cleanup Services Company',
+  name: 'Veyra',
+  url: 'https://zstorefoods.myshopify.com/',
+  image: require('./assets/works/veyra.png'),
+  title: 'Fashion for Every Generation, Style for Every Occasion.',
+  theme: 'Password: shaik, Shopify theme design and custom development focuing the ecomemrce product layout and the user centered device friendly interface design with integration of SEO, Accessibility, and Optimization',
+  framework1: 'UI Design',
+  framework2: 'UI Development',
+  framework3: 'Shopify Theme'
+},{
+  id: 1,
+  name: 'HazardAUS',
+  url: 'https://hazardaus.com.au',
+  image: require('./assets/works/hazardAUS.png'),
+  title: 'Professionals in asbestos testing, hazardous materials testing in Australia',
   theme: 'Designed and developed a website using WordPress and the Elementor page builder, with a focus on SEO, Accessibility, and Core Web Vitals optimization',
   framework1: 'UI/UX Design',
   framework2: 'UI Development',
@@ -88,7 +98,7 @@ export const projects = [
   theme: 'Developed a ecommerce web application',
   framework1: 'UI/UX Design',
   framework2: 'UI Development',
-  framework3: 'Shopify UI'
+  framework3: 'Shopify Theme'
 }, {
   id: 9,
   name: 'Camlab',
@@ -188,7 +198,7 @@ export const projects = [
   theme: 'Designed and development of magento2 theme and modules',
   framework1: 'UI Design',
   framework2: 'UI Development',
-  framework3: 'Shopify UI'
+  framework3: 'Shopify Theme'
 }, {
   id: 19,
   name: 'Mynpp',
@@ -238,6 +248,6 @@ export const projects = [
   theme: 'Designed and developed custom Shopify web application',
   framework1: 'UI Design',
   framework2: 'UI Development',
-  framework3: 'Shopify UI'
+  framework3: 'Shopify Theme'
 }
 ];
