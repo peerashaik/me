@@ -20,7 +20,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'Wordpress UI'
 },{
-  id: 1,
+  id: 2,
   name: 'HazardAUS',
   url: 'https://hazardaus.com.au',
   image: require('./assets/works/hazardAUS.png'),
@@ -30,7 +30,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'Wordpress UI'
 },{
-  id: 2,
+  id: 3,
   name: 'Forensic Crime Clean',
   url: 'https://forensiccrimecleaning.com.au',
   image: require('./assets/works/forensicclean.png'),
@@ -40,7 +40,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'Wordpress UI'
 },{
-  id: 3,
+  id: 4,
   name: 'Vita4you',
   url: 'https://vita4you.gr',
   image: require('./assets/works/vita4you.png'),
@@ -50,7 +50,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'eCommerce B2C'
 }, {
-  id: 4,
+  id: 5,
   name: 'Bainland',
   url: 'https://bainland.co.uk',
   image: require('./assets/works/bainland.png'),
@@ -60,7 +60,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'Woocommerce'
 }, {
-  id: 5,
+  id: 6,
   name: 'Docitt',
   url: 'https://www.docitt.com',
   image: require('./assets/works/docitt.png'),
@@ -70,7 +70,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'Polymer Library'
 }, {
-  id: 6,
+  id: 7,
   name: 'Invopak',
   url: 'https://invopak.co.uk',
   image: require('./assets/works/invopak.png'),
@@ -80,7 +80,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'eCommerce B2C'
 }, {
-  id: 7,
+  id: 8,
   name: 'Hardwinsoftware',
   url: 'https://hardwinsoftware.com',
   image: require('./assets/works/hardwin.png'),
@@ -90,7 +90,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'Corporate Website',
 }, {
-  id: 8,
+  id: 9,
   name: 'Magnahardwoodfloors',
   url: 'https://magnahardwoodfloors.com',
   image: require('./assets/works/magna.png'),
@@ -100,7 +100,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'Shopify Theme'
 }, {
-  id: 9,
+  id: 10,
   name: 'Camlab',
   url: 'https://camlab.co.uk',
   image: require('./assets/works/camlab.png'),
@@ -110,7 +110,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'eCommerce B2C'
 }, {
-  id: 10,
+  id: 11,
   name: 'Startupwind',
   url: 'https://www.startupwind.com',
   image: require('./assets/works/startupwind.png'),
@@ -120,7 +120,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'Corporate WebApp'
 }, {
-  id: 11,
+  id: 12,
   name: 'Exercise',
   url: 'https://exercise.co.uk',
   image: require('./assets/works/exercise.png'),
@@ -130,7 +130,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'eCommerce B2C'
 }, {
-  id: 12,
+  id: 13,
   name: 'Shop',
   url: 'https://shop.se.com/fr/fr',
   image: require('./assets/works/shopse.png'),
@@ -140,7 +140,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'eCommerce B2B & B2C'
 }, {
-  id: 13,
+  id: 14,
   name: 'Iniala',
   url: 'https://iniala.com',
   image: require('./assets/works/iniala.png'),
@@ -150,7 +150,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'Web Development'
 }, {
-  id: 14,
+  id: 15,
   name: 'RussellHobbs',
   url: 'https://uk.russellhobbs.com',
   image: require('./assets/works/russelhob.png'),
@@ -160,7 +160,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'eCommerce B2C'
 }, {
-  id: 15,
+  id: 16,
   name: 'ElioBay',
   url: 'https://eliobay.com',
   image: require('./assets/works/eliobay.png'),
@@ -170,7 +170,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'Web Development'
 }, {
-  id: 16,
+  id: 17,
   name: 'PowerToolSpares',
   url: 'https://powertoolspares.com',
   image: require('./assets/works/powertools.png'),
@@ -180,7 +180,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'Web Development'
 }, {
-  id: 17,
+  id: 18,
   name: 'Corporatecaresolutions',
   url: 'https://www.corporatecaresolutions.com/',
   image: require('./assets/works/corporatecare.png'),
@@ -190,7 +190,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'Wordpress UI'
 }, {
-  id: 18,
+  id: 19,
   name: 'Faye',
   url: 'https://faye.in',
   image: require('./assets/works/faye.png'),
@@ -200,7 +200,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'Shopify Theme'
 }, {
-  id: 19,
+  id: 20,
   name: 'Mynpp',
   url: 'https://mynpp.com',
   image: require('./assets/works/mynpp.png'),
@@ -210,7 +210,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'Wordpress UI'
 }, {
-  id: 20,
+  id: 21,
   name: 'Tellofy',
   url: 'https://tellofy.com',
   image: require('./assets/works/tellofy.png'),
@@ -220,7 +220,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'Web Development'
 }, {
-  id: 21,
+  id: 22,
   name: 'Surecopy',
   url: 'https://surecopyladner.com',
   image: require('./assets/works/surecopy.png'),
@@ -230,7 +230,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'Web Development'
 }, {
-  id: 22,
+  id: 23,
   name: 'Nlfisher',
   url: 'https://nlfisher.com',
   image: require('./assets/works/nlfisher.png'),
@@ -240,7 +240,7 @@ export const projects = [
   framework2: 'UI Development',
   framework3: 'Web Development'
 }, {
-  id: 23,
+  id: 24,
   name: 'Leaf Studios',
   url: 'https://www.leafstudios.in/',
   image: require('./assets/works/leaf.png'),
